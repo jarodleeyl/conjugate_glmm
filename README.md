@@ -2,4 +2,5 @@
 
 Simulation code for my Biometrika paper "Analysis of grouped data using conjugate generalized linear mixed models".
 
-https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asz053/5607066?redirectedFrom=fulltext
+https://academic.oup.com/biomet/article-abstract/107/1/231/5607066?redirectedFrom=fulltext
+
